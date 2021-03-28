@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agno.API", "Agno.API\Agno.API.csproj", "{74DE51CA-32D2-4B6B-B8A2-571C0A2FC369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DE51CA-32D2-4B6B-B8A2-571C0A2FC369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DE51CA-32D2-4B6B-B8A2-571C0A2FC369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DE51CA-32D2-4B6B-B8A2-571C0A2FC369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DE51CA-32D2-4B6B-B8A2-571C0A2FC369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3A9953-35D8-46EB-A310-A38AD71F7F46}
+	EndGlobalSection
+EndGlobal
