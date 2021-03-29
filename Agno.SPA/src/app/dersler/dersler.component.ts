@@ -13,8 +13,6 @@ import { Komplex } from '../siniflar/komplex';
 })
 export class DerslerComponent implements OnInit {
 
-  donemler!:any
-
   donem1!:any
   donem2!:any
   donem3!:any
