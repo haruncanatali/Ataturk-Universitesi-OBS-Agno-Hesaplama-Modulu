@@ -3,8 +3,8 @@ Bu projede Atatürk Üniversitesi Bilgisayar Mühendisliği  bölümü için ori
 #### Kullanılan Teknolojiler
 <hr>
 
- 1. Asp.Net Core API
- 2. Angular(Typescript)
+ 1. Asp.Net Core API(C#)
+ 2. Angular(TypeScript)
  3. Ado.Net
 
 #### Projeden Görüntüler
